@@ -12,3 +12,4 @@ C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\re
 C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.pdb
 C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.genruntimeconfig.cache
 C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\ref\OptimizationMthods.dll
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.sourcelink.json
