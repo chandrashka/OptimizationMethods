@@ -1,0 +1,14 @@
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\bin\Debug\net8.0\OptimizationMthods.exe
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\bin\Debug\net8.0\OptimizationMthods.deps.json
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\bin\Debug\net8.0\OptimizationMthods.runtimeconfig.json
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\bin\Debug\net8.0\OptimizationMthods.dll
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\bin\Debug\net8.0\OptimizationMthods.pdb
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.AssemblyInfoInputs.cache
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.AssemblyInfo.cs
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.csproj.CoreCompileInputs.cache
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.dll
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\refint\OptimizationMthods.dll
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.pdb
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\OptimizationMthods.genruntimeconfig.cache
+C:\Users\julia\RiderProjects\Optimization\OptimizationMthods\obj\Debug\net8.0\ref\OptimizationMthods.dll
